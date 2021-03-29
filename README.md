@@ -46,5 +46,7 @@ I am really grateful that the Udacity Data Scientist Nanodegree has provided nec
 
 ## References
 There were many googling and online support I have utilized to finish the project. Below are few references:
+
 1. https://github.com/miriamwanjo/Arvato-Capstone-Project-/blob/master/Arvato%20Project%20Workbook%20(4).ipynb
 2. https://github.com/ursulahneumann/Arvato_capstone/blob/master/Arvato_capstone.ipynb
+3. https://stackoverflow.com/questions/34537048/how-to-count-nan-values-in-a-pandas-dataframe
