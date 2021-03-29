@@ -1,7 +1,7 @@
 # Bertelsmann-Arvato_Capstone_Project
 
-## Introduction
-This project applies Machine Learning algorithms to get information about potential customers out of demographic data. It is part of the Udacity Data Scientist Nanodegree and shows the main steps to solve the underlying business needs: data understanding, data preparation, modelling and evaluation. The data and outline of this project was provided by Arvato Financial Solutions, a Bertelsmann subsidiary.
+## Project Motivation
+This project applies Machine Learning algorithms to get information about potential customers out of demographic data. It is part of the Udacity Data Scientist Nanodegree and shows the main steps to solve the underlying business needs: data understanding, data preparation, modelling and evaluation. The data and outline of this project was provided by Arvato Financial Solutions, a Bertelsmann subsidiary. I had an opportunity to practice and showcase my unsupervised and supervised machine learning skills and complete the Udacity Data Science Nanodegree capstone project. While brushing off my skills, I also had learn to optimize my coding structures to minimize run time and save memory space.
 
 The whole project was divided into four parts:
 
@@ -15,9 +15,6 @@ The whole project was divided into four parts:
 
 Finally the results were summarized in a Medium blog post found here: 
 
-
-## Project Motivation
-I had an opportunity to practice and showcase my unsupervised and supervised machine learning skills and complete the Udacity Data Science Nanodegree capstone project. While brushing off my skills, I also had learn to optimize my coding structures to minimize run time and save memory space.
 
 ## File Descriptions
 README.md - This file describes the contents of this repo
@@ -34,12 +31,12 @@ blog_images folder - folder containing images used in the Medium blog post
 The code was written in python 3 and requires the following packages: 
 1. numpy 
 2. pandas 
-3. matplotlib, 
-4. seaborn, 
-5. pickle, 
-6. time, 
+3. matplotlib 
+4. seaborn 
+5. pickle 
+6. time 
 7. sklearn collections
-8. operator.
+8. operator
 
 ## Summary of Results
 See my GitHub repo and Medium blog post (https://medium.com/@ursulahneumann/2-ways-to-use-machine-learning-to-identify-customers-d33c5c2eaf60?postPublishedType=initial) for summary of results.
