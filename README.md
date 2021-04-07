@@ -33,10 +33,8 @@ The code was written in python 3 and requires the following packages:
 2. pandas 
 3. matplotlib 
 4. seaborn 
-5. pickle 
-6. time 
-7. sklearn collections
-8. operator
+5. time 
+6. sklearn collections
 
 ## Summary of Results
 See my GitHub repo and Medium blog post (https://medium.com/@ursulahneumann/2-ways-to-use-machine-learning-to-identify-customers-d33c5c2eaf60?postPublishedType=initial) for summary of results.
@@ -50,3 +48,8 @@ There were many googling and online support I have utilized to finish the projec
 1. https://github.com/miriamwanjo/Arvato-Capstone-Project-/blob/master/Arvato%20Project%20Workbook%20(4).ipynb
 2. https://github.com/ursulahneumann/Arvato_capstone/blob/master/Arvato_capstone.ipynb
 3. https://stackoverflow.com/questions/34537048/how-to-count-nan-values-in-a-pandas-dataframe
+4. https://www.kaggle.com/sid321axn/principal-component-analysis-pca
+5. https://medium.com/@tobias.gorgs/how-to-use-machine-learning-for-customer-acquisition-bcd52f42042d
+6. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+7. https://stats.stackexchange.com/questions/77689/estimating-the-most-important-features-in-a-k-means-cluster-partition
+8. https://stats.stackexchange.com/questions/69157/why-do-we-need-to-normalize-data-before-principal-component-analysis-pca/69159#69159
