@@ -13,7 +13,7 @@ The whole project was divided into four parts:
 
 > In Part 3 the supervised learning model built in Part 2 is used to predict the response of a testing data set. This prediction is used to compete in a Kaggle competition. 
 
-Finally the results were summarized in a Medium blog post found here: 
+Finally the results were summarized in a Medium blog post found here: https://lailashahreen17.medium.com/how-to-acquire-new-customers-utilizing-machine-learning-9e59cb66c85f
 
 
 ## File Descriptions
