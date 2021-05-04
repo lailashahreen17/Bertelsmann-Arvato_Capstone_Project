@@ -36,8 +36,6 @@ The code was written in python 3 and requires the following packages:
 5. time 
 6. sklearn collections
 
-## Summary of Results
-See my GitHub repo and Medium blog post (https://medium.com/@ursulahneumann/2-ways-to-use-machine-learning-to-identify-customers-d33c5c2eaf60?postPublishedType=initial) for summary of results.
 
 ## Licenses and Acknowledgements
 I am really grateful that the Udacity Data Scientist Nanodegree has provided necessary lessons and many useful resources to complete this project. Arvato provided the data which cannot be publicly shared.
